@@ -18,3 +18,4 @@
 ## Resources
 
 - [Foundations of Data Science](https://github.com/DS4PS/Data-Science-Class)
+- [GitHub Classroom](https://classroom.github.com/)
