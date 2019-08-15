@@ -18,4 +18,4 @@
 ## Resources
 
 - [Foundations of Data Science](https://github.com/DS4PS/Data-Science-Class)
-- [GitHub Classroom](https://classroom.github.com/)
+- [GitHub Classroom](https://classroom.github.com/) ([example assignment](https://github.com/aysps/problem-set-1-andrewheiss))
