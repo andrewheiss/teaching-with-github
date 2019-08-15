@@ -15,3 +15,6 @@
 - [Old, normal way of distributing assignment materials](https://statsf18.classes.andrewheiss.com/assignment/03-problem-set/)
 - New way: [GitHub Template](https://github.com/andrewheiss/example-problem-set)
 
+## Resources
+
+- [Foundations of Data Science](https://github.com/DS4PS/Data-Science-Class)
